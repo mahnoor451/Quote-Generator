@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://yourusername.github.io/quote-generator)
+  Experience the app live: [Quote Generator App](https://quote-generator-ten-navy.vercel.app/)
   [![GitHub stars](https://img.shields.io/github/stars/yourusername/quote-generator)](https://github.com/yourusername/quote-generator/stargazers)
   [![GitHub license](https://img.shields.io/github/license/yourusername/quote-generator)](https://github.com/yourusername/quote-generator/blob/main/LICENSE)
   
