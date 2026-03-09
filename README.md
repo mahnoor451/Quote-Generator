@@ -53,7 +53,7 @@ A beautiful and interactive random quote generator that displays inspirational q
 
 ## 🚀 Live Demo
 
-**Check out the live demo:** [Quote Generator App](https://yourusername.github.io/quote-generator)
+**Check out the live demo:** [Quote Generator App](https://quote-generator-ten-navy.vercel.app/)
 
 ## 💻 How to Use
 
