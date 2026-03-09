@@ -14,7 +14,7 @@
 
 A beautiful and interactive random quote generator that displays inspirational quotes from famous personalities. Users can generate new quotes, copy them to clipboard, and listen to them using text-to-speech functionality.
 
-![App Screenshot](screenshot.png)  <!-- Add your app screenshot here -->
+![App Screenshot](App-picture.png)  <!-- Add your app screenshot here -->
 
 ## ✨ Features
 
